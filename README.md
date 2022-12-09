@@ -1,2 +1,2 @@
 # FitCLub
-A gym website to help you started on your fitness journey 
+A gym website to help you get started on your fitness journey 
